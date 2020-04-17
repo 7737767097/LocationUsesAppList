@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">RealTimeLocationAppUsages</string>
+    <string name="allow_permission">Please allow location permission from application setting.</string>
+    <string name="settings">Settings</string>
+    <string name="enable_permission_request">Please enable this permission to fetch real time locaiton.</string>
+    <string name="ok">OK</string>
+    <string name="no_location_detected">No location detected yet!</string>
+    <string name="location">Location</string>
+</resources>
